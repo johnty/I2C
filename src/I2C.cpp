@@ -26,7 +26,7 @@
 #include <stdio.h>      /* Standard I/O functions */
 #include <fcntl.h>
 #include <unistd.h>
-#include <linux/i2c.h>
+//#include <linux/i2c.h>
 #include <linux/i2c-dev.h>
 #include <syslog.h>		/* Syslog functionality */
 #include "I2C.h"
